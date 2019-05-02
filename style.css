@@ -1,7 +1,8 @@
 .teste{
-	border: 3px solid #33aafe;
+background-color: #33eefb;
+	color: #ffffff;
 	width: 400px;
 	height: 400px;
-	color: #32aaef;
-	background-color: #33aefa;
+	border: 3px solid #33aafe;
+	border-radius: 10px; 
 }
