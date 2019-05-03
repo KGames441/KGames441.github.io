@@ -1,8 +1,23 @@
-.teste{
-background-color: #33eefb;
-	color: #ffffff;
-	width: 400px;
-	height: 400px;
-	border: 3px solid #33aafe;
-	border-radius: 10px; 
+.posts{
+	text-align: left;
+	margin-left: 50px;
+	color: #FFFFFF;
+}
+
+h3{
+	color: #b4ff44;
+
+
+}
+
+h2{
+	color: #ff9532;
+}
+
+a{
+	color: #2389ff;
+}
+
+body{
+	background-color: #2389ff;
 }
